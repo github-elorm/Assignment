@@ -19,5 +19,5 @@ Based on the value of the `operation` parameter, the `calculator` function perfo
 
 ## Requirements
 
-Ensure you have Python installed. This project is compatible with Python 3.x.
+Ensure you have Python installed. 
 
